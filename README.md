@@ -3,7 +3,7 @@ this repo is a html & css challenge from [fontendmentor.io](http://frontendmento
 
 # designs
 <span>
-<img src="./design/desktop-design.jpg" width="70%" />
+<img src="./design/destkop-design.jpg" width="70%" />
 </span>
   <span>
 <img src="./design/mobile-design.jpg" width="25%" />
